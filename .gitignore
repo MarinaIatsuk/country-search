@@ -1,2 +1,7 @@
-node_modules
-.husky
+node_modules/
+dist/
+coverage/
+.husky/_
+.DS_Store
+*.log
+EOF
